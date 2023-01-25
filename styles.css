@@ -1,0 +1,16 @@
+div{
+	width: 940px;
+	margin: 0;
+}
+
+div h1{
+	color: green;
+}
+
+li{
+	font-weight: bold;
+	font-size: 2em;
+}
+li:hover{
+	color: red;
+}
